@@ -1,1 +1,1 @@
-# notes-and-resources
+# Resources
