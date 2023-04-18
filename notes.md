@@ -66,3 +66,10 @@ const name = x === "name1" && y === "name1";
 ```
 Resource:
 <a href="https://medium.com/khojchakra/understanding-short-circuit-evaluation-in-javascript-31b5770a41f7">Understanding short circuit evaluation in JS</a>
+
+## Aria
+
+1- aria-required --> will tell this field is required
+
+
+
